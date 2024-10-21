@@ -104,7 +104,7 @@ header .menu nav a:hover {
 }
 
 #welcome {
-  background-image: url(/assets/headerbg.jpg);
+  background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jp);
   background-position: center center;
   background-size: cover;
 }
